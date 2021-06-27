@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/AwaisKing/AwaisKing/main/images/my_info.svg" />
+<img align="center" src="https://raw.githubusercontent.com/AwaisKing/AwaisKing/main/images/dumb_anim.svg" />
 
 ---
 haha heyyy! i don't like you 😃
@@ -10,5 +10,5 @@ haha heyyy! i don't like you 😃
     <img align="center" alt="My Apps' Privacy Policies" title="My Apps' Privacy Policies" src="https://github-readme-stats.vercel.app/api/pin/?username=AwaisKing&repo=PPs&show_owner=false&theme=react" />
 </a>
 <a href="https://github.com/AwaisKing/Linked-Words">
-    <img align="center" alt="Linked Words" title="Linked Words" src="https://github-readme-stats.vercel.app/api/pin/?username=AwaisKing&repo=Linked-Words&show_owner=false&theme=react" />
+    <img align="center" alt="Linked Words" title="Linked Words" src="https://github-readme-stats.vercel.app/api/pin/?username=AwaisKing&repo=Linked-Words&show_owner=false&theme=react&layout=compact" />
 </a>
