@@ -1,4 +1,6 @@
-<img align="center" src="https://raw.githubusercontent.com/AwaisKing/AwaisKing/main/images/dumb_anim.gif" />
+<center>
+    <img align="center" src="https://raw.githubusercontent.com/AwaisKing/AwaisKing/main/images/dumb_anim.gif" style="background-color: #fff;border: #57bdda solid 1px;border-radius: 4px;" />
+</center>
 
 ---
 haha heyyy! i don't like you 😃
