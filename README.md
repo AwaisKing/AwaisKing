@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/AwaisKing/AwaisKing/main/images/dumb_anim.svg" />
+<img align="center" src="https://raw.githubusercontent.com/AwaisKing/AwaisKing/main/images/dumb_anim.gif" />
 
 ---
 haha heyyy! i don't like you 😃
