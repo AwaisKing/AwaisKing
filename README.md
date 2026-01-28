@@ -1,3 +1,4 @@
+<!--
 <center>
     <img align="center" src="https://raw.githubusercontent.com/AwaisKing/AwaisKing/main/images/dumb_anim.gif" style="background-color: #fff;border: #57bdda solid 1px;border-radius: 4px;" />
 </center>
@@ -14,3 +15,5 @@ haha heyyy! i don't like you 😃
 <a href="https://github.com/AwaisKing/Linked-Words">
     <img align="center" alt="Linked Words" title="Linked Words" src="https://github-readme-stats.vercel.app/api/pin/?username=AwaisKing&repo=Linked-Words&show_owner=false&theme=react&layout=compact" />
 </a>
+-->
+# haha heyyy! i don't like you 😃
